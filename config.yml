@@ -1,0 +1,12 @@
+url : 'https://jsonplaceholder.typicode.com/users'
+output_file : 'api_data.csv'
+
+useful_columns : 
+  - id
+  - name
+  - email
+  - phone
+  - website
+  - city
+  - zipcode
+  - company_name
